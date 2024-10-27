@@ -1,7 +1,6 @@
 # ePortfolio
 
-[Home](readme.md "Home") [Software Design](CS320.md "Software Design") [Algorithms](cs300.md "Algorithms") [Databases](cs340.md "Databases") [Code Review](codereview.md "Code Review")  
-
+[Home](readme.md "Home") [Software Design and Engineering](CS320.md "Software Design") [Algorithms and Data Structures](cs300.md "Algorithms") [Databases](cs340.md "Databases") [Code Review](codereview.md "Code Review") 
 ---
 
 ## CS499 Computer Science Capstone 22EW4<br>April, 2022
