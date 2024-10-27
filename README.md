@@ -44,3 +44,25 @@ This paper outlines an initial plan detailing how I will fulfill the ePortfolio 
 - Algorithms and Data Structures. 
 - Databases. 
 
+## Code Review
+
+Code review has been conducted on the three selected artifacts one for each category of Software Design and Engineering, Algorithm and Data structures, and Databases.   One video for each of these code reviews has been screen-captured with live commentary to explain the step-by-step code review. Code review covers the identification of bugs and errors in the current code base, improvements introduced in these artifacts, and enhancements performed to improve these artifacts. 
+
+## Software Design and Engineering
+
+[Software Design and Engineering](M3A2EnhancementThreeSoftwareDesignAndEngineering.pdf "Software Design and Engineering")
+
+This paper will present the enhancements for artifact one related to the Software Design and Engineering category for the Computer Science Capstone course. The paper entails the details of the artifact chosen for this milestone during the module 2 code review project and is included in the ePortfolio. It also covers the details of the processes and steps taken to create and enhance the artifact. The outcome of this enhancement process will display the outcomes and learnings acquired while completing the enhancements. 
+
+## Algorithms and Data Structures
+
+[Algorithms and Data Structures](M4A2EnhancementTwoAlgorithmAndDataStructures.pdf "Algorithms and Data Structures")
+
+This paper will present the enhancements for artifact two related to the Algorithms and Data Structures category for the Computer Science Capstone course. The paper entails the details of the artifact chosen for this milestone during the module 2 code review project and is included in the ePortfolio. It also covers the details of the processes and steps taken to create and enhance the artifact. The outcome of this enhancement process will display the outcomes and learnings acquired while completing the enhancements. 
+
+## Databases
+
+[Databases](M5A2MilestoneFourDatabases.pdf "Databases")
+
+This paper will present the enhancements for artifact three related to the Database category for the Computer Science Capstone course. The paper entails the details of the artifact chosen for this milestone during the module 2 code review project and is included in the ePortfolio. It also covers the details of the processes and steps taken to create and enhance the artifact. The outcome of this enhancement process will display the outcomes and learnings acquired while completing the enhancements throughout this course. 
+
