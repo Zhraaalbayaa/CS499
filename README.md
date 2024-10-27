@@ -33,3 +33,14 @@ This paper covers the emerging technologies over the past few years, many techno
 [Final Project](M7A1FinalProject.pdf "Final Project")
 
 This paper covers the final project to represent the great journey taken throughout this course CS499 Computer Science Capstone, its assignments, modules, development of ePortfolio, and final project along with Github website using its pages API. This paper will cover the complete reflection of my journey, achievements, and accomplishments evolving ePortfolio and enhancement of three artifacts covering Software Design and Development, Databases, and Algorithms and Data Structures. 
+
+## ePortfolio Artifact Selection
+
+[ePortfolio Artifact Selection](CS499M1ArtifactSelection.pdf "ePortfolio Artifact Selection")
+
+This paper outlines an initial plan detailing how I will fulfill the ePortfolio requirements. While this submission is not the final version, it provides a strong foundation with clear ideas for review. This assignment serves as a starting point for developing a well-thought-out plan to create an ePortfolio that effectively showcases my skills across key areas of computer science.
+
+- Software Design and Engineering.
+- Algorithms and Data Structures. 
+- Databases. 
+
