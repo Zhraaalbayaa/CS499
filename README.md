@@ -14,12 +14,12 @@ All three Artifacts present my skillset in different categories related to the c
 
 ## Reflections
 
-[Journal: Marketing with ePortfolio](5-1 - Journal Computer Science Trends and Artifact Update.docx "Journal: Marketing with ePortfolio")
+[Journal: Marketing with ePortfolio](M3A1JournalMarketingWithePortfolio.pdf "Journal: Marketing with ePortfolio")
 
-[Journal: Career Choice](CS499/CS499-M4-1_Paper.pdf "Journal: Career Choice")
+[Journal: Career Choice](M4A1JournalCareerChoiceAndUpdate.pdf "Journal: Career Choice")
 
-[Journal: Career Choice](CS499/CS499-M4-1_Paper.pdf "Journal: Career Choice")
+[Journal: Computer Science Trends](M5A1JournalComputerScienceTrends.pdf "Journal: Computer Science Trends")
 
-[Journal: Career Choice](CS499/CS499-M4-1_Paper.pdf "Journal: Career Choice")
+[Journal: Emerging Technology](M6A1JournalEmergingTechnology.pdf "Journal: Emerging Technology")
 
-[Journal: Career Choice](CS499/CS499-M4-1_Paper.pdf "Journal: Career Choice")
+[Final Project](M7A1FinalProject.pdf "Final Project")
